@@ -274,8 +274,8 @@ if (0) {
 h1. yab_api_cache
 
 p. Simple URL cache.
-Caches the outout of an url (as simple GET APIs, URIs, websites etc.).
-It can also be used to cache dynamic pages of the own site. Especially the ones with a lot of huge dynamic lists (you can use "etc_cache":http://www.iut-fbleau.fr/projet/etc/index.php?id=52 parts of the site).
+Caches the outout of an url (simple GET APIs, URIs, websites etc.).
+It can also be used to cache dynamic pages of the own website. Especially the ones with a lot of huge dynamic lists (but you can also use "etc_cache":http://www.iut-fbleau.fr/projet/etc/index.php?id=52 parts of the site).
 
 p. *Version:* 0.1.2
 
